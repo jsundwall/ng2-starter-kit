@@ -17,7 +17,7 @@
     "@types/node": "latest",
     "concurrently": "latest",
     "lite-server": "latest",
-    "typescript": "latest",
+    "typescript": "latest"
   },
   "dependencies": {
     "@angular/common": "latest",
